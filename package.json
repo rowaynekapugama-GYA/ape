@@ -1,0 +1,28 @@
+{
+  "name": "ape-website",
+  "version": "1.0.2",
+  "private": true,
+  "description": "The Anxious Patient Experience website. GYA build on Next.js App Router, deployed to Vercel.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "qa:copy": "node scripts/check-copy.mjs",
+    "qa:dashes": "node scripts/check-dashes.mjs"
+  },
+  "dependencies": {
+    "next": "15.4.11",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.6.3"
+  },
+  "engines": {
+    "node": ">=20.9"
+  }
+}
