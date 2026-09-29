@@ -1,0 +1,11 @@
+{
+  "header": {
+    "logo": "The Anxious Patient Experience™",
+    "button": { "label": "Book Now", "href": "/book-now/" }
+  },
+  "footer": {
+    "tagline": "A nervous-system-aware approach to dental care.",
+    "legal": "© 2026 The Anxious Patient Experience™. All rights reserved."
+  },
+  "disclaimer": "The information on this website is general in nature and is not a substitute for personalised advice from a registered dental practitioner. Any invasive procedure carries risks. Before proceeding, you should seek a second opinion from an appropriately qualified health practitioner."
+}

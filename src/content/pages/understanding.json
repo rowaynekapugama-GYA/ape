@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Understanding Dental Anxiety | The Anxious Patient Experience™",
+    "description": "Dental anxiety often starts in the body, not the mind. Learn why it happens and how we work with your nervous system instead of against it."
+  },
+  "hero": {
+    "eyebrow": "Understanding the experience",
+    "headline": "What if your dental care started with understanding your anxiety first?",
+    "subheading": "Not built around it.",
+    "image": {
+      "src": "/images/understanding-hero-curtains.webp",
+      "width": 1400,
+      "height": 1738,
+      "position": "60% 65%",
+      "alt": "Soft morning light through sheer linen curtains beside a trailing plant"
+    }
+  },
+  "whyYourBodyReacts": {
+    "eyebrow": "The nervous system",
+    "heading": "Dental anxiety often starts in the body.",
+    "body": "Your nervous system is always checking whether you are safe. At the dentist, many things can tell it you are not:",
+    "items": [
+      "Unfamiliar environments",
+      "Past experiences",
+      "Claustrophobia",
+      "Needles",
+      "Sounds and sensations",
+      "Embarrassment",
+      "Unpredictability"
+    ]
+  },
+  "howItShowsUp": {
+    "heading": "What it can feel like",
+    "body": "When your body feels unsafe, you might notice:",
+    "items": [
+      "A racing heart",
+      "Muscle tension",
+      "Changes in your breathing",
+      "Shaking",
+      "Nausea",
+      "Tears",
+      "Freezing",
+      "The urge to leave or cancel"
+    ],
+    "closingLine": "This is not always a conscious choice. It is your body trying to protect you."
+  },
+  "approach": {
+    "eyebrow": "Our approach",
+    "heading": "We don't ask you to ignore that response. We work with it.",
+    "body": "Being told to \"just relax\" rarely helps. Instead, we help you understand what is happening, give you practical tools to regulate that response and create an environment where accessing care feels possible.",
+    "image": {
+      "src": "/images/understanding-approach-mug.webp",
+      "width": 1800,
+      "height": 1208,
+      "alt": "Two hands resting in a lap holding a warm ceramic mug"
+    }
+  },
+  "differently": {
+    "eyebrow": "What we do differently",
+    "heading": "Care designed around how you feel.",
+    "cards": [
+      { "icon": "understand", "title": "Understanding you before you arrive", "description": "We learn about your history, concerns and preferences before your first visit." },
+      { "icon": "predict", "title": "Predictability", "description": "You know what will happen, when it will happen and how long it will take." },
+      { "icon": "control", "title": "Control", "description": "You set the pace and can ask to pause at any time." },
+      { "icon": "communicate", "title": "Communication tailored to you", "description": "We explain as much or as little as you want, in the way that suits you." },
+      { "icon": "regulate", "title": "Nervous-system regulation", "description": "Practical techniques to help your body settle before and during care." },
+      { "icon": "sensory", "title": "Sensory support", "description": "Options to help with sound, light and touch, including headphones and choosing what you watch or listen to." },
+      { "icon": "support", "title": "Additional support where clinically appropriate", "description": "Sedation options can be discussed if they are right for you." }
+    ]
+  },
+  "sedation": {
+    "heading": "Sedation is one option, not the whole plan.",
+    "body": "Where clinically appropriate, sedation may include nitrous oxide or IV sedation. Our broader aim is to help you build regulation skills and confidence, so you are not entirely reliant on sedation to access care."
+  },
+  "honestNote": {
+    "heading": "Is this approach enough on its own?",
+    "body": "The Anxious Patient Experience™ may not be sufficient as a standalone approach for every patient. More severe dental phobia or complex cases may require pharmacological support or additional care. If that applies to you, we will talk it through with you and recommend the right next step."
+  },
+  "closing": {
+    "line1": "Imagine walking out of the dentist feeling proud of yourself.",
+    "line2": "That feeling is possible.",
+    "button": { "label": "Book Now", "href": "/book-now/" }
+  }
+}

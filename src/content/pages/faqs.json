@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "FAQs | The Anxious Patient Experience™",
+    "description": "Answers to common questions about The Anxious Patient Experience™, including sedation, costs and what happens at your first appointment."
+  },
+  "hero": {
+    "eyebrow": "Questions",
+    "headline": "Everything you might want to know before you begin."
+  },
+  "items": [
+    { "q": "Am I suitable for The Anxious Patient Experience™?", "a": "If your body tenses, your heart races or you avoid the dentist because of how it makes you feel, this was created for you. It may not be sufficient on its own for everyone. More severe dental phobia or complex cases may need additional support, which we will discuss with you." },
+    { "q": "What if I haven't been to the dentist for years?", "a": "You are not alone, and there is no judgement here. We start from where you are today." },
+    { "q": "What if I become overwhelmed or cry?", "a": "That's okay. It's a natural response, not something to apologise for. We pause, give you time and only continue when you are ready." },
+    { "q": "Do I have to have treatment at my first appointment?", "a": "No. Your first appointment is about understanding you and what you need. Any treatment is discussed and planned with you, at your pace." },
+    { "q": "Can I bring someone with me?", "a": "Yes. You're welcome to bring someone you trust." },
+    { "q": "Can I use headphones or choose what I watch or listen to?", "a": "Yes. Bring your own headphones and choose what you watch or listen to during your visit." },
+    { "q": "Is sedation available?", "a": "Where clinically appropriate, additional support such as nitrous oxide or IV sedation may be available. Our broader aim is to help you build regulation skills and confidence, so you are not entirely reliant on sedation." },
+    { "q": "What happens after my first appointment?", "a": "We talk through what we learned together and agree on the next steps. You decide what happens next and when." },
+    { "q": "How much does it cost?", "a": "The New Patient Appointment is 70 minutes and costs $350. A $100 deposit is required to secure your booking." },
+    { "q": "What is the cancellation and deposit policy?", "a": "With 48 hours' notice or more, your deposit can be transferred or refunded. With less than 48 hours' notice or non-attendance, your deposit may be retained. If anxiety is making it hard to attend, please contact us rather than simply not attending." }
+  ],
+  "closing": {
+    "heading": "Still have a question?",
+    "body": "Alex is happy to talk it through with you.",
+    "buttons": [
+      { "label": "Talk to Alex", "href": "talkToAlex" },
+      { "label": "Book Now", "href": "/book-now/" }
+    ]
+  }
+}

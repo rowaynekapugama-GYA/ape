@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Book Your Appointment | The Anxious Patient Experience™",
+    "description": "Book your 70-minute New Patient Appointment online and secure it with a $100 deposit."
+  },
+  "hero": {
+    "eyebrow": "When you are ready",
+    "headline": "A next step does not have to feel like a big one.",
+    "subheading": "Book your first appointment and pay your deposit online in four simple steps.",
+    "image": {
+      "src": "/images/book-now-nook.webp",
+      "width": 1800,
+      "height": 1005,
+      "alt": "A quiet waiting nook with a cushioned bench, a folded throw, headphones and a glass of water"
+    }
+  },
+  "appointmentCard": {
+    "title": "The Anxious Patient Experience™: New Patient Appointment",
+    "details": "70 minutes | $350",
+    "deposit": "$100 deposit required to secure the appointment",
+    "button": "Choose a time"
+  },
+  "steps": [
+    "Choose your appointment",
+    "Enter your details",
+    "Pay your $100 deposit",
+    "Booking confirmed"
+  ],
+  "policy": {
+    "items": [
+      { "lead": "48 hours' notice or more:", "text": "your deposit can be transferred to a new appointment or refunded." },
+      { "lead": "Less than 48 hours' notice or non-attendance:", "text": "your deposit may be retained." },
+      { "lead": "If anxiety is making it hard to attend:", "text": "please contact us. We would much rather hear from you than have you simply not come." }
+    ],
+    "checkbox": "I have read and understand the deposit and cancellation policy.",
+    "paymentButton": "Pay $100 deposit"
+  },
+  "confirmation": {
+    "heading": "You're booked in.",
+    "body": "Your appointment details have been sent to your email. Before your visit, we'll be in touch to learn a little more about you and what will help you feel comfortable.",
+    "accent": "You've already taken the hardest step."
+  },
+  "reassurance": {
+    "body": "Not ready to book yet? Talk to Alex first. There is no pressure and no need to have the right words.",
+    "button": { "label": "Talk to Alex", "href": "talkToAlex" }
+  }
+}

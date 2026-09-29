@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Meet the Team | The Anxious Patient Experience™",
+    "description": "Meet Dr Lorna Gladwin, creator of The Anxious Patient Experience™, and Alex, your first point of contact."
+  },
+  "hero": {
+    "eyebrow": "Meet the team",
+    "headline": "You deserve to feel heard.",
+    "subheading": "Your experience matters from the very beginning."
+  },
+  "members": [
+    {
+      "slug": "lorna-gladwin",
+      "name": "Dr Lorna Gladwin",
+      "role": "Dentist and Creator of The Anxious Patient Experience™",
+      "bio": "Lorna created The Anxious Patient Experience™ for people whose bodies react before they have even reached the dental chair.\n\nOriginally from northern England, Lorna graduated from the University of Sheffield in 2019. She has worked across NHS hospitals and private practices in the UK and Sydney, including referral care in private settings. Sydney is now home, and she practises in the Sutherland Shire.\n\nLorna has a special interest in restorative dentistry and endodontics (root canal treatment). Whatever brings you in, her approach starts with understanding you, not just your teeth.",
+      "quote": "\"You don't have to be brave here. You can take it one gentle step at a time.\"",
+      "clinician": true,
+      "photo": {
+        "src": "/images/team-lorna-gladwin.webp",
+        "width": 1600,
+        "height": 1073,
+        "position": "53% 50%",
+        "alt": "Dr Lorna Gladwin, creator of The Anxious Patient Experience"
+      }
+    },
+    {
+      "slug": "alex",
+      "name": "Alex [Surname]",
+      "role": "APE Lead and Your First Point of Contact",
+      "bio": "Alex is the person you'll speak to first. From your first question to the day of your appointment, Alex is here to talk through what to expect, answer anything on your mind and make sure your preferences are known before you arrive. Alex isn't a clinician, so you can talk openly without feeling like you're already in the chair.",
+      "button": {
+        "label": "Talk to Alex",
+        "href": "talkToAlex"
+      },
+      "clinician": false,
+      "photo": {
+        "placeholder": "Portrait to be added: Alex (photo needs approval)",
+        "alt": "Alex, APE Lead"
+      }
+    }
+  ],
+  "closing": {
+    "eyebrow": "When you are ready",
+    "heading": "A next step does not have to feel like a big one.",
+    "button": {
+      "label": "Book Now",
+      "href": "/book-now/"
+    }
+  }
+}
